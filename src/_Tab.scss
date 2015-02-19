@@ -2,7 +2,7 @@
 // Tabs
 //
 
-$mobile-mq: 40em !default;
+$mobile-mq: "only screen and (max-width: 40em)" !default;
 $primary-color: #0074D9 !default;
 $active-color: darken($primary-color, 8) !default;
 
