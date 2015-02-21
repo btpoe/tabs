@@ -1,7 +1,7 @@
 {
   "name": "btpoe.tabs",
   "description": "Because this shouldn't take more than 100 lines.",
-  "version": "1.0.0",
+  "version": "1.0.alpha1",
   "main": "src/*",
   "ignore": [
     "**/*.txt",
@@ -13,7 +13,7 @@
   ],
   "dependencies": {
     "jquery": ">=1.9.*",
-    "btpoe.select": "*"
+    "btpoe.select": ">=1.*"
   },
   "homepage": "https://github.com/btpoe/tabs",
   "authors": [
