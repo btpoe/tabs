@@ -1,7 +1,7 @@
 ;
 (function ($) {
 
-	function Tabs(wrap) {
+	function Tab(wrap) {
 
 		var tabs = this;
 		tabs.wrap = $(wrap);
@@ -82,7 +82,7 @@
 
 	$.fn.tabs = function () {
 		return this.each(function () {
-			return new Tabs(this).init();
+			return new Tab(this).init();
 		});
 	};
 
