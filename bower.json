@@ -1,0 +1,31 @@
+{
+  "name": "btpoe/tabs",
+  "description": "Because this shouldn't take more than 100 lines.",
+  "version": "1.0.0",
+  "main": "src/*",
+  "ignore": [
+    "**/*.txt",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": ">=1.9.*",
+    "btpoe/select": ">=1.*"
+  },
+  "homepage": "https://github.com/btpoe/tabs",
+  "authors": [
+    "Brandon Poe <brandonpoe@me.com>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "jquery",
+    "tabs",
+    "sass"
+  ],
+  "license": "MIT"
+}
