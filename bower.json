@@ -1,5 +1,5 @@
 {
-  "name": "btpoe/tabs",
+  "name": "btpoe.tabs",
   "description": "Because this shouldn't take more than 100 lines.",
   "version": "1.0.0",
   "main": "src/*",
@@ -13,7 +13,7 @@
   ],
   "dependencies": {
     "jquery": ">=1.9.*",
-    "btpoe/select": ">=1.*"
+    "btpoe.select": "*"
   },
   "homepage": "https://github.com/btpoe/tabs",
   "authors": [
