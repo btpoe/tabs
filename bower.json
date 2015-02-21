@@ -13,7 +13,7 @@
   ],
   "dependencies": {
     "jquery": ">=1.9.*",
-    "btpoe.select": ">=1.*"
+    "btpoe.select": "*"
   },
   "homepage": "https://github.com/btpoe/tabs",
   "authors": [
